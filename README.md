@@ -1,4 +1,5 @@
-hosted link: https://reactreduxapp-5e4d7.web.app/
+firebase hosted link: https://reactreduxapp-5e4d7.web.app/
+aws cloud s3 hosted link: http://react-redux-application.s3-website.eu-north-1.amazonaws.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
